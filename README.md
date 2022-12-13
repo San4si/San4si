@@ -1,4 +1,4 @@
-### Olá! Eu sou o Sandro Brito, estudante de tecnolgia e graduando em Sistemas de Informação 7 semestre. 👋
+### Olá! Eu sou o Sandro Brito, graduado em Sistemas de Informação e desenvolvedor junior node.js. 👋
 
 - 🔭 Atualmente estou estágiando em desenvolvimento de software na GFT Brasil.
 
