@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Sandro Brito, graduado em Sistemas de Informação e desenvolvedor junior node.js. 👋
 
-- 🔭 Atualmente tranalho como dev junior em desenvolvimento de software na GFT Brasil.
+- 🔭 Atualmente trabalho como dev junior em desenvolvimento de software na GFT Brasil.
 
 <div align="center">
   <a href="https://github.com/San4si">
