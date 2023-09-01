@@ -1,4 +1,4 @@
-### Olá! Eu sou o Sandro Brito, graduado em Sistemas de Informação e desenvolvedor junior node.js. 👋
+### Olá! Eu sou o Sandro Brito, graduado em Sistemas de Informação e desenvolvedor backEnd Junior. 👋
 
 - 🔭 Atualmente trabalho como dev junior em consultoria de software.
 
