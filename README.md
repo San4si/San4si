@@ -1,4 +1,4 @@
-### Olá! Eu sou o Sandro Brito, graduado em Sistemas de Informação e desenvolvedor backEnd Pleno. 👋
+### Olá! Eu sou o Sandro Brito, graduado em Sistemas de Informação e desenvolvedor backEnd Junior. 👋
 
 - 🔭 Atualmente trabalho como dev pleno em consultoria de software.
 
